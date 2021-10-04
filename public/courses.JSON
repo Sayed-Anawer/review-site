@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1",
+        "title": "HTML5 CSS3 JavaScript Master",
+        "rating": 4,
+        "price": "$ 9.99",
+        "author": "Brad Schiff"
+    },
+    {
+        "id": 2,
+        "img": "https://d31ezp3r8jwmks.cloudfront.net/tp1h80m384u2i6gipzcecj472h6t",
+        "title": "2021 Complete Python Bootcamp",
+        "rating": 4.5,
+        "price": "$ 13.99",
+        "author": "Jose Portilla"
+    },
+    
+    {
+        "id": 3,
+        "img": "https://prutor.ai/wp-content/uploads/data-science-using-python.png",
+        "title": "Git & GitHub - The Practical Guide",
+        "rating": 4.3,
+        "price": "$ 12.99",
+        "author": "Manuel Lorenz"
+    },
+    {
+        "id": 4,
+        "img": "https://media.onlinecoursebay.com/2019/08/25063335/2409312_d50a_7-750x405.jpg",
+        "title": "Python and Django Full Stack Web Developer",
+        "rating": 4,
+        "price": "$ 15.99",
+        "author": "Jose Portilla"
+    },
+    {
+        "id": 5,
+        "img": "https://miro.medium.com/max/1400/1*ODU5V_oAmYmzvZ1wIw3rDw.png",
+        "title": "The Complete Node.js Developer Course",
+        "rating": 4.7,
+        "price": "$ 16.99",
+        "author": "Andrew Mead"
+    },
+    {
+        "id": 6,
+        "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg",
+        "title": "MERN Stack Front To Back: Full Stack React, Redux & Node.js",
+        "rating": 4,
+        "price": "$ 13.99",
+        "author": "Brad Traversy"
+    },
+    {
+        "id": 7,
+        "img": "https://www.mydixi.com/wp-content/uploads/2021/02/UIUX.jpg",
+        "title": "User Experience Design Essentials - Adobe XD UI UX Design",
+        "rating": 4.8,
+        "price": "$ 10.99",
+        "author": "Daniel Walter"
+    },
+    {
+        "id": 8,
+        "img": "https://www.jesusamieiro.com/wp-content/uploads/2019/10/Laravel.png",
+        "title": "PHP with Laravel for beginners - Become a Master in Laravel",
+        "rating": 4,
+        "price": "$ 10.99",
+        "author": "Edwin Diaz"
+    },
+    {
+        "id": 9,
+        "img": "https://prutor.ai/wp-content/uploads/data-science-using-python.png",
+        "title": "Python for Data Science and Machine Learning",
+        "rating": 3.8,
+        "price": "$ 18.99",
+        "author": "Jose Portilla"
+    }
+]

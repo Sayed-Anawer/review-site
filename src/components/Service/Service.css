@@ -1,0 +1,11 @@
+.image-size{
+    width: 200px;
+    height: 300px;
+}
+
+.grid-style{
+
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 20px;
+}
